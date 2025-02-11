@@ -8,6 +8,9 @@ click on new repository-> then add a name -> create repository
 copy the path
 
 To add remote repository to the local repository
-git remote add origin(name for calling the path) path(remote repository)
+git remote add origin(name for the path) path(remote repository)
 
+command for listing all branches
 git branch
+
+command for switching the branch
