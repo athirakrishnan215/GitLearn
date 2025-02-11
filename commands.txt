@@ -10,3 +10,4 @@ copy the path
 To add remote repository to the local repository
 git remote add origin(name for calling the path) path(remote repository)
 
+git branch
