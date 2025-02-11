@@ -17,9 +17,11 @@ To get exact copy from remote to local
 git clone origin master
 
 to get changes from remote to local
-
+git pull origin master
 
 command for listing all branches
 git branch
 
 command for switching the branch
+
+copy
