@@ -14,3 +14,5 @@ command for listing all branches
 git branch
 
 command for switching the branch
+
+copy
