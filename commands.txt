@@ -4,3 +4,9 @@ git add -A (to add all changes to staging area)
 git commit -m (to add staging data to the local repository)
 
 create a repository in github
+click on new repository-> then add a name -> create repository
+copy the path
+
+To add remote repository to the local repository
+git remote add origin(name for calling the path) path(remote repository)
+
