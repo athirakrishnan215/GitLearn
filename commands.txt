@@ -10,6 +10,15 @@ copy the path
 To add remote repository to the local repository
 git remote add origin(name for the path) path(remote repository)
 
+To add local content to remote
+git push origin master
+
+To get exact copy from remote to local
+git clone origin master
+
+to get changes from remote to local
+
+
 command for listing all branches
 git branch
 
